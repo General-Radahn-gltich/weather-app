@@ -26,7 +26,7 @@ It allows users to search for any city and also fetch weather based on their cur
 
 ## 📸 App Preview
 
-![App Screenshot](public/app-preview.png)
+![App Screenshot](./public/app-preview.png)
 ---
 
 ## ⚙️ Setup Instructions
