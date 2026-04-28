@@ -1,16 +1,38 @@
-# React + Vite
+# 🌦️ Weather Forecast App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Weather App built using **ReactJS** and **Context API**.  
+It allows users to search for any city and also fetch weather based on their current location.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🔍 Search weather by city name  
+- 📍 Get weather using current location  
+- 🌡️ Real-time temperature display  
+- 🌤️ Weather condition icons  
+- ⚡ Fast and responsive UI  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ReactJS
+- Context API
+- Fetch API
+- WeatherAPI
+
+---
+
+## 📸 App Preview
+
+![App Screenshot](public/images/app-preview.png)
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/General-Radahn-gltich/weather-app.git
